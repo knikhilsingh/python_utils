@@ -1,0 +1,36 @@
+The Collins Corpus
+What’s in the Collins Corpus?
+
+The Collins Corpus is an analytical database of English with over 4.5 billion words. It contains written material from websites, newspapers, magazines and books published around the world, and spoken material from radio, TV and everyday conversations. New data is fed into the Corpus every month, to help the Collins dictionary editors identify new words and meanings from the moment they are first used. 
+
+What does the Corpus tell us?
+
+All COBUILD dictionaries are based on the information we find in the Collins Corpus. The full Corpus contains 4.5 billion words. The Bank of English™ is a subset of 650 million words from a carefully chosen selection of sources, to give a balanced and accurate reflection of English as it is used today. Our lexicographers use the Bank of English™ every day, and they use the full Collins Corpus to check more widely for extra information. 
+
+Because the Collins Corpus is so large, we can look at lots of examples of how people really use the words. The data tells us how words are used, what they mean, which words are used together, and how often words are used. This information on frequency helps us decide which words to include in the COBUILD dictionaries. 
+
+Did you know?
+
+All of the examples in COBUILD dictionaries are examples of real English, taken from the Corpus. The Collins Corpus lies at the heart our publishing for learners of English and you can be confident that COBUILD will show you what you need to know to be able to communicate easily and accurately in English. 
+
+How do dictionary editors use the Corpus?
+
+When a dictionary editor wants to add a new word to COBUILD, they search the Corpus for every example of the word. The word appears on the computer screen in a long list of sentences and the editor can arrange the lines in different ways depending on what they want to look at. 
+
+For example, let’s look at the phrase 'in the cloud', and how its meaning has changed over time. 
+
+1990-1999: 100% of all examples of 'in the cloud' in the written Subcorpus relate either to meteorology or clouds of dust, smoke or alike. Below are some examples from the Corpus with their sources. 
+
+'Sometimes there was a break in the cloud and you could see for miles.' (Sunday Times)... 
+
+'Chondrules [...] probably started out as globs of molten rock in the cloud of dust and gas that gave birth to the Solar System.' (New Scientist) 
+
+2005-2009: More than 60% of the entries found in the Corpus now relate to computing. 
+
+'...his goal is to create a kind of Windows in the cloud.' (The Economist) 'Will information I store in the cloud be secure?' (Computing) 'Since the data is stored in the cloud, there 's no risk of data loss.' (Financial Mail, South Africa) 
+
+The compound 'cloud computing' didn’t even exist in the 1990-1999 Corpus, but there are more than 500 hits in the 2005-2009 Corpus. 
+
+'The attraction of cloud computing is evident for a small startup business lacking the finances to develop and maintain IT infrastructures in-house. (Computing) ...companies that consider cloud computing need to also understand the legal implications of losing access to such a service.' (Computing) '...with cloud computing, it is much harder to know where information is and who is controlling it.' (Computing) '...cloud computing lets companies have someone else run their software remotely for a monthly or annual fee, with users accessing the programs over live Internet connections.' (Denver Post) 
+
+This shows that the word 'cloud' was mainly used in its meteorological sense before 2005. In recent years, 'cloud', in the sense of web-based storage for files, has become frequent along with new collocations ('cloud computing') and new phrases ('in the cloud').
